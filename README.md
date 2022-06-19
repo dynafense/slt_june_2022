@@ -18,7 +18,7 @@ If you have a laptop running Kali Linux or macOS, the installation steps will be
 3. Understand how to disable the Antivirus software on your laptop.
 
 
-## Windows: Steps to install nmap on your laptop
+## A. Windows: Steps to install nmap on your laptop
 
 1. Go to [nmap](https://nmap.org/download#windows) and download the executable that says `nmap-7.92-setup.exe` using your favourite web browser
 
@@ -38,7 +38,7 @@ TARGET SPECFIICATION:
 5. You're ready for the session.
 
 
-## macOS: Steps to install nmap on your laptop
+## B. macOS: Steps to install nmap on your laptop
 
 By default, macOS does not come with either the Homebrew or the Macports package managers. You will need to install either one (definitely not both)
 
@@ -73,7 +73,7 @@ TARGET SPECFIICATION:
 5. You're ready for the session.
 
 
-## Linux (Debian-based distributions): Steps to install nmap on your laptop
+## C. Linux (Debian-based distributions): Steps to install nmap on your laptop
 
 APT is the default package manager in Debian-based distributions, together with Kali Linux.
 
@@ -91,7 +91,7 @@ TARGET SPECFIICATION:
 4. You're ready for the session.
 
 
-## Linux (RHEL-based distributions): Steps to install nmap on your laptop
+## D. Linux (RHEL-based distributions): Steps to install nmap on your laptop
 
 DNF is the default package manager in RHEL-based distributions; for example CENTOS, Fedora Red Hat Enterprise Linux.
 
