@@ -7,7 +7,7 @@ If you are having problem with this software installation, don't sweat it. Come 
 
 ### What is NMAP?
 
-[NMAP](https://nmap.org/) is a software tool commonly used to probe for open services or ports. It can either send IPv4 or IPv6 probes and is the mainstay software for most vulnerability assessments and penetration testing engagements. We will be using this tool for the session.
+[nmap website](https://nmap.org/) is a software tool commonly used to probe for open services or ports. It can either send IPv4 or IPv6 probes and is the mainstay software for most vulnerability assessments and penetration testing engagements. We will be using this tool for the session.
 
 If you have a laptop running Kali Linux or macOS, the installation steps will be different from Windows and can also be found below
 
@@ -20,7 +20,7 @@ If you have a laptop running Kali Linux or macOS, the installation steps will be
 
 ## Windows: Steps to install nmap on your laptop
 
-1. Go to [NMAP](https://nmap.org/download#windows) and download the executable that says `nmap-7.92-setup.exe` using your favourite web browser
+1. Go to [nmap website](https://nmap.org/download#windows) and download the executable that says `nmap-7.92-setup.exe` using your favourite web browser
 
 ![nmap-windows](nmap-windows.png)
 
