@@ -20,7 +20,7 @@ If you have a laptop running Kali Linux or macOS, the installation steps will be
 
 ## A. Windows: Steps to install nmap on your laptop
 
-1. Go to [nmap](https://nmap.org/download#windows) and download the executable that says `nmap-7.92-setup.exe` using your favourite web browser
+1. Go to [nmap](https://nmap.org/download#windows) and download the executable that says `nmap-7.92-setup.exe` using your favourite web browser.
 
 ![nmap-windows](nmap-windows.png)
 
@@ -40,13 +40,13 @@ TARGET SPECFIICATION:
 
 ## B. macOS: Steps to install nmap on your laptop
 
-By default, macOS does not come with either the Homebrew or the Macports package managers. You will need to install either one (definitely not both)
+By default, macOS does not come with either the [Homebrew](https://brew.sh) or the [Macports](https://www.macports.org) package managers. You will need to install either one (definitely not both) before following the steps below.
 
-A. If you are using Homebrew
+i. If you are using Homebrew
 1. Run the Terminal application (Applications > Utilities > Terminal)
 2. Now to update Homebrew  `sudo brew update`
 3. Install nmap  `sudo brew install nmap`
-4. Start a terminal session and type `nmap` The following messages should appear
+4. Start a terminal session and type `nmap` The following messages should appear:
 ```
 Nmap 7.xx ( https://nmap.org )
 Usage: nmap [Scan Type(s)] [Options] {target specification}
@@ -57,11 +57,11 @@ TARGET SPECFIICATION:
 ```
 5. You're ready for the session.
 
-B. If you are using Macports
+ii. If you are using Macports
 1. Run the Terminal application (Applications > Utilities > Terminal)
 2. Now to update Homebrew  `sudo port update`
 3. Install nmap  `sudo port install nmap`
-4. Start a terminal session and type `nmap` The following messages should appear
+4. Start a terminal session and type `nmap` The following messages should appear:
 ```
 Nmap 7.xx ( https://nmap.org )
 Usage: nmap [Scan Type(s)] [Options] {target specification}
@@ -75,11 +75,11 @@ TARGET SPECFIICATION:
 
 ## C. Linux (Debian-based distributions): Steps to install nmap on your laptop
 
-APT is the default package manager in Debian-based distributions, together with Kali Linux.
+Advanced package tool (or APT) is the default package manager in Debian-based distributions, including Debian, Ubuntu and Kali Linux.
 
 1. Update the apt repository `sudo apt update`
 2. Install nmap  `sudo apt install nmap`
-3. Start a terminal session and type `nmap` The following messages should appear
+3. Start a terminal session and type `nmap` The following messages should appear:
 ```
 Nmap 7.xx ( https://nmap.org )
 Usage: nmap [Scan Type(s)] [Options] {target specification}
@@ -93,11 +93,11 @@ TARGET SPECFIICATION:
 
 ## D. Linux (RHEL-based distributions): Steps to install nmap on your laptop
 
-DNF is the default package manager in RHEL-based distributions; for example CENTOS, Fedora Red Hat Enterprise Linux.
+DNF is the default package manager in RHEL-based distributions; for example CENTOS, Fedora Red Hat Enterprise Linux. YUM is no longer the default package manager also its commands are still usable in RHEL 8/9.
 
 1. Update the yum repository `sudo dnf update`
 2. Install nmap  `sudo dnf install nmap`
-3. Start a terminal session and type `nmap` The following messages should appear
+3. Start a terminal session and type `nmap` The following messages should appear:
 ```
 Nmap 7.xx ( https://nmap.org )
 Usage: nmap [Scan Type(s)] [Options] {target specification}
