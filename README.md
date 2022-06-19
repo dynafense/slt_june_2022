@@ -25,7 +25,7 @@ If you have a laptop running Kali Linux or macOS, the installation steps will be
 ![nmap-windows](nmap-windows.png)
 
 2. Upon downloading, install the application by double-clicking on it.
-3. Verify it works by executing the application. To do so, click on the Start button (Lower left corner) and type `cmd`
+3. Verify it works by executing the application. To do so, click on the Windows button (Lower left corner) and type `cmd`
 4. Then `nmap` You should see lines scrolling down the terminal. Scrolling upwards you will see:
 ```
 Nmap 7.92 ( https://nmap.org )
