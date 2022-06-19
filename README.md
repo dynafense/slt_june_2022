@@ -21,6 +21,7 @@ If you have a laptop running Kali Linux or macOS, the installation steps will be
 ## Windows: Steps to install nmap on your laptop
 
 1. Go to [NMAP](https://nmap.org/download#windows) and download the executable that says `nmap-7.92-setup.exe` using your favourite web browser
+
 ![nmap-windows]!(nmap-windows.png)
 
 2. Upon downloading, install the application by double-clicking on it.
