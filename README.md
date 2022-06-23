@@ -4,6 +4,14 @@ We will be using _nmap_ for doing basic vulnerability assessments and penetratio
 
 If you are having problem with this software installation, don't sweat it. Come for the session and get help.
 
+## 23 June 2022 UPDATE: Installing homebrew / macports on macOS installation
+
+For homebrew, please follow the instructions at [homebrew](https://brew.sh)
+
+For macports, instructions can be found at [macports](https://www.macports.org/install.php)
+
+Both package managers require you to install Xcode Command line Tools `xcode-select --install` as part of their pre-requisites. Macbook air / Macbook pro typically come with limited storage space (ie 256 gig / 512 gig). If you have insufficient storage space on your mac, don't sweat it. Come by and absorb the understanding. That is more important than learning to use [nmap](https://nmap.org).
+
 
 ### What is NMAP?
 
