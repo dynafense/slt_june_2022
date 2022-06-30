@@ -4,6 +4,11 @@ We will be using _nmap_ for doing basic vulnerability assessments and penetratio
 
 If you are having problem with this software installation, don't sweat it. Come for the session and get help.
 
+## 30 June 2022 UPDATE: Uploaded the VA PT deck
+[2022 Dynafense VA PT deck](2022%20Dynafense%20VA%20PT%20deck.pdf)
+
+Check slide 51 onwards for the Bonus PT #2 questions. For answers - reach out!
+
 ## 23 June 2022 UPDATE: Installing homebrew / macports on macOS installation
 
 For homebrew, please follow the instructions at [homebrew](https://brew.sh)
